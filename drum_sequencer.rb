@@ -1,3 +1,5 @@
+# inspired by https://gist.github.com/xavriley/dd6b61c24c3aed28c892
+
 use_bpm 120
 
 ## define drum sounds
